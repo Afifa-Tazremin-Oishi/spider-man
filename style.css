@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+h1{
+    font-size: 60px;
+    color: gray;
+}
+li{
+    color: gray;
+    padding-left: 20px;
+}
+.half-width{
+    size: 50%;
+    padding: 5%;
+    max-width: 50%;
+   
+}
+.half-width img{
+    width: 80%;
+    padding: auto;
+}
+.flexable-container{
+    display: flex;
+    
+}
